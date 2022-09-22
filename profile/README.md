@@ -1,5 +1,7 @@
 # GameSwift
 ![TT2](https://live.staticflickr.com/65535/52374115290_5e7cc5e9fc_o.png)
-## 
-GameSwift is a one-stop gaming ecosystem that aims to introduce cross-chain interoperability to web3 gaming. Imagine the possibility of signing into your favorite game with one account, like your Google or AppleID, instead of using various wallets, chains, and networks. It's only a tiny part of what GameSwift can do!
-The GameSwift ecosystem is based on four great pillars: Chain, Platform, Web3 infrastructure, and Gaming Studio. All of them are well designed and integrated with each other to let the players enjoy their gaming experience to the fullest, while giving game developers the ability to share in-game resources without forcing them to exist in only one chain.
+## About GameSwift
+__GameSwift__ is a one-stop __gaming ecosystem__ that aims to introduce cross-chain interoperability to __Web3 gaming__. 
+Imagine the possibility of signing into your favorite game with one account, like your Google or AppleID, instead of using various wallets, chains, and networks. It's only a tiny part of what __GameSwift__ can do!
+
+The __GameSwift ecosystem__ is based on four great pillars: __Chain, Platform, Web3 Infrastructure, and Gaming Studio__. All of them are well designed and integrated with each other to let the players enjoy their __gaming__ experience to the fullest, while giving game developers the ability to share in-game resources without forcing them to exist in __only one chain__.
