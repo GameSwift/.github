@@ -1,5 +1,5 @@
 # GameSwift
-![TT2](https://live.staticflickr.com/65535/52374115290_5e7cc5e9fc_o.png)
+![TT2](https://live.staticflickr.com/65535/52376584025_0740b6afae_o.png)
 ## About GameSwift
 __GameSwift__ is a one-stop __gaming ecosystem__ that aims to introduce cross-chain interoperability to __Web3 gaming__. 
 Imagine the possibility of signing into your favorite game with one account, like your Google or AppleID, instead of using various wallets, chains, and networks. It's only a tiny part of what __GameSwift__ can do!
